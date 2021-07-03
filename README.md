@@ -105,7 +105,7 @@ Parse .nessus
 Example:
 ```py
 
-    python3 Nessusview.py client_external.nessus /work/path/client/client_external_report
+    python3 nessusview.py client_external.nessus /work/path/client/client_external_report
     
 ```
 NOTE: .html is added automatically so no need to add above.
